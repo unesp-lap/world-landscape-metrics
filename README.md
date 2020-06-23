@@ -5,7 +5,6 @@ calculo
 
 bases
 1. Hansen et al. 2013: https://www.globalforestwatch.org/  (30 m)
-2. TanDEM x: https://geoservice.dlr.de/web/maps/tdm:forest (50 m)
 
 resolucao
 - dependendo
@@ -15,14 +14,19 @@ montar a base
 
 softwares
 - lsmetrics
-- r
+- r (landscapemetrics)
 
 computador
 - dois pcs com 16 Gb 
 
 metricas
-- porcentagem
-- razao area borda/interior
+- porcentagem de cobertura florestal
+- densidade de fragmentos
 - densidade de borda
-- isolamento
-- fragstats
+- splitting index
+
+Tamanho dos buffers
+- 100 m até 3000 m em intervalos de 300 m (100, 400, 700, 1000, 1300, 1600, 1900, 2200,2500,2800)
+
+limites de porcentagem de cobertura florestal do Hansen
+- 70,80 e 90%
