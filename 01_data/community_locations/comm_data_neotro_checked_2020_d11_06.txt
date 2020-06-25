@@ -1,0 +1,1000 @@
+comm_code	ref_code	site	sampling_year	x	y
+com_001	REF_NT_001		2005	-53.83333333	-26.5
+com_002	REF_NT_004		2003	-68.81927835	-11.496226
+com_003	REF_NT_004		2003	-68.58550619	-12.38344
+com_004	REF_NT_004		2003	-68.75754274	-11.342365
+com_005	REF_NT_004		2003	-67.19358529	-11.293863
+com_006	REF_NT_004		2003	-69.42847542	-10.934582
+com_007	REF_NT_006		2004	-76.428944	3.875875
+com_008	REF_NT_008		1995	-69.801063	5.417971
+com_009	REF_NT_008		1977	-67.846597	5.339013
+com_010	REF_NT_008		1977	-69.148062	5.109102
+com_011	REF_NT_008		1987	-69.51555556	-1.071944444
+com_012	REF_NT_008		1999	-69.62527778	-2.121111111
+com_013	REF_NT_008		2002	-69.90444444	-3.533333333
+com_014	REF_NT_008		2003	-69.89083333	-3.535833333
+com_015	REF_NT_009	F1	2014	-74.140436	6.716209
+com_016	REF_NT_009	F2	2014	-74.145591	6.711779
+com_017	REF_NT_009	FT	2014	-74.136114	6.713308
+com_018	REF_NT_009	FDU	2014	-74.187016	6.666162
+com_019	REF_NT_009	F3	2014	-74.151941	6.7028
+com_020	REF_NT_009	FA	2014	-74.144662	6.699981
+com_021	REF_NT_009	FC	2014	-74.125644	6.710898
+com_022	REF_NT_009	FN	2014	-74.133154	6.72562
+com_023	REF_NT_009	FTF	2014	-74.120383	6.693844
+com_024	REF_NT_008		2001	-69.83555556	-3.501944444
+com_025	REF_NT_010		2001	-69.5	-1.583333333
+com_026	REF_NT_012		2005	-75.251027	10.633309
+com_027	REF_NT_013		2005	-74.97611111	10.04
+com_028	REF_NT_014		2006	-74.2	6.016666667
+com_029	REF_NT_015		1996	-85.620026	10.842998
+com_030	REF_NT_018		2005	-83.948042	10.459624
+com_031	REF_NT_019		2002	-83.737444	10.556062
+com_032	REF_NT_020		1999	-83.778012	10.447872
+com_033	REF_NT_021		2005	-76.16666667	-0.616666667
+com_034	REF_NT_022		2012	-80.891178	-1.075206
+com_035	REF_NT_023		1995	-52.66666667	4.083333333
+com_036	REF_NT_024		1998	-53.06666667	4.85
+com_037	REF_NT_026		2002	-89.58333333	17.25
+com_038	REF_NT_027		2008	-58.70325	4.675766
+com_039	REF_NT_028	C1	2007	-90.938444	16.116167
+com_040	REF_NT_028	C2	2007	-90.901833	16.158889
+com_041	REF_NT_028	F1	2007	-90.845472	16.323472
+com_042	REF_NT_028	F2	2007	-90.851694	16.331111
+com_043	REF_NT_028	F3	2007	-90.833194	16.253389
+com_044	REF_NT_026		2001	-89.8	18.1
+com_045	REF_NT_026		2001	-90.95	16.88333333
+com_046	REF_NT_032		2006	-91.311583	18.854272
+com_047	REF_NT_032		2006	-89.858033	18.316744
+com_048	REF_NT_033		1987	-79.85	9.15
+com_049	REF_NT_035	Pakitza	2006	-71.281389	-11.942334
+com_050	REF_NT_035	Lower Panagua	2006	-71.347116	-11.977351
+com_051	REF_NT_035	Upper Panagua	2006	-71.508872	-11.964086
+com_052	REF_NT_035	Cocha Cashu	2006	-71.406192	-11.883254
+com_053	REF_NT_035	Cumerjali	2006	-71.629937	-11.86402
+com_054	REF_NT_035	Tayakome	2006	-71.655668	-11.731749
+com_055	REF_NT_035	Yomybato	2006	-71.919143	-11.797873
+com_056	REF_NT_036		2007	-76.75	-7.229444444
+com_057	REF_NT_036		2007	-77.460833	-7.320556
+com_058	REF_NT_036		2007	-77.91	-5.665556
+com_059	REF_NT_036		2007	-78.250833	-5.641667
+com_060	REF_NT_036		2007	-77.760484	-5.674408
+com_061	REF_NT_036		2007	-77.224722	-6.707778
+com_062	REF_NT_036		2007	-77.58333333	-5.961944444
+com_063	REF_NT_036		2007	-76.954444	-5.962222
+com_064	REF_NT_036		2007	-76.9	-6.292777778
+com_065	REF_NT_036		2007	-77.5575	-6.267778
+com_066	REF_NT_036		2007	-77.06666667	-6.361666667
+com_067	REF_NT_036		2007	-78.2	-4.883055556
+com_068	REF_NT_036		2007	-76.892554	-7.247208
+com_069	REF_NT_036		2007	-77.78333333	-5.795277778
+com_070	REF_NT_036		2007	-77.83333333	-5.575277778
+com_071	REF_NT_036		2007	-76.291323	-6.463399
+com_072	REF_NT_036		2007	-78.411471	-5.921401
+com_073	REF_NT_036		2007	-77.983908	-5.909202
+com_074	REF_NT_036		2007	-77.18333333	-7.035833333
+com_075	REF_NT_036		2007	-76.393333	-9.258056
+com_076	REF_NT_036		2007	-76.791111	-8.651667
+com_077	REF_NT_036		2007	-76.718611	-8.411111
+com_078	REF_NT_036		2007	-77.135556	-8.117222
+com_079	REF_NT_037	Shuyal	2012	-75.425924	-1.543362
+com_080	REF_NT_037	Ponal	2012	-75.227013	-1.611599
+com_081	REF_NT_037	Paujil	2012	-75.430801	-1.566575
+com_082	REF_NT_037	Colpa	2012	-75.218185	-1.618693
+com_083	REF_NT_038	Pagoreni north	2008	-73.006652	-11.666094
+com_084	REF_NT_038	Pagoreni west	2008	-73.058195	-11.621407
+com_085	REF_NT_038	Saniri	2008	-73.086184	-11.631365
+com_086	REF_NT_038	Mipaya	2008	-73.162136	-11.577732
+com_087	REF_NT_038	Kinteroni CX	2008	-73.470125	-11.520027
+com_088	REF_NT_038	Mashira JX	2008	-73.454154	-11.422674
+com_089	REF_NT_038	Mapi OX	2008	-73.410604	-11.381976
+com_090	REF_NT_039	East side	1997	-73.975406	-5.658234
+com_091	REF_NT_039	West side	1997	-74.003611	-5.655
+com_092	REF_NT_040	Reserva Amazonica	2010	-69.053611	-12.534444
+com_093	REF_NT_040	Los Amigos Biological Station	2010	-70.081111	-12.569444
+com_094	REF_NT_040	Tambopata Research Center	2010	-69.616389	-13.119167
+com_095	REF_NT_041	Reserva Comunal Tamshiyacu-Tahuayo	1990	-73.126324	-4.378384
+com_096	REF_NT_041	Reserva Comunal Tamshiyacu-Tahuayo - Yavari-mirim	1990	-72.745749	-4.592506
+com_097	REF_NT_042	Jau National Park	1998	-62.59464	-2.216385
+com_098	REF_NT_043	Island 4	2008	-59.59527778	-1.836111111
+com_099	REF_NT_043	Island 5	2008	-59.6875	-1.783333333
+com_100	REF_NT_043	Island 7	2008	-59.44777778	-1.789722222
+com_101	REF_NT_043	Island 8	2008	-59.353583	-1.840271
+com_102	REF_NT_043	Island 9	2008	-59.655	-1.877222222
+com_103	REF_NT_043	Island 10	2008	-59.66277778	-1.678333333
+com_104	REF_NT_043	Island 11	2008	-59.68722222	-1.831388889
+com_105	REF_NT_043	Island 12	2008	-59.63777778	-1.791111111
+com_106	REF_NT_043	Island 13	2008	-59.41555556	-1.798611111
+com_107	REF_NT_043	Island 14	2008	-59.78472222	-1.702777778
+com_108	REF_NT_043	Island 15	2008	-59.44222222	-1.739444444
+com_109	REF_NT_043	Island 16	2008	-59.71666667	-1.671111111
+com_110	REF_NT_043	Island 17	2008	-59.77861111	-1.597222222
+com_111	REF_NT_043	Island 18	2008	-59.70333333	-1.741666667
+com_112	REF_NT_043	Island 19	2008	-59.51472222	-1.772777778
+com_113	REF_NT_043	Island 20	2008	-59.62722222	-1.592777778
+com_114	REF_NT_044	Fazenda Vitória 1	1994	-47.58333333	-2.916666667
+com_115	REF_NT_046	Ferreira Penna Scientific Station	1996	-51.45	-1.75
+com_116	REF_NT_046	Fazenda Arataú	1996	-50.337859	-3.833021
+com_117	REF_NT_047	Carajas National Forest	2010	-50.19576667	-6.170538889
+com_118	REF_NT_048	Fazenda Badajos	1991	-47.785266	-2.548744
+com_119	REF_NT_048	Fazenda São Marcos I	1991	-47.32757	-2.551214
+com_120	REF_NT_048	Fazenda São Sebastião	1991	-46.999864	-1.867763
+com_121	REF_NT_048	Gurupi Biological Reserve	1991	-46.748307	-3.404097
+com_122	REF_NT_049	Fazenda São Marcos II	1992	-47.33333333	-2.216666667
+com_123	REF_NT_050	Virua National Park	2006	-61.037624	1.467913
+com_124	REF_NT_051	Adolpho Ducke Forest Reserve	2002	-59.92540278	-2.953633333
+com_125	REF_NT_053	BOGPM	2008	-65.22488	-4.866536
+com_126	REF_NT_054	Fazenda Experimental UFAM	2011	-60.070047	-2.655568
+com_127	REF_NT_055	Fazenda Vitória 2	2005	-47.41666667	-2.983333333
+com_128	REF_NT_055	Fazenda Rio Capim	2005	-48.55	-3.65
+com_129	REF_NT_055	Fazenda Monte Verde	2002	-47.313163	-1.183057
+com_130	REF_NT_055	Parque Ecológico Gunma	2005	-48.283333	-1.216667
+com_131	REF_NT_056	Anavilhanas National Park	2007	-60.898337	-2.250373
+com_132	unpublished	No name 01	2000	-56.093	-2.999
+com_133	unpublished	No name 02	2000	-66.681312	-5.33566
+com_134	unpublished	No name 03	2000	-55.935416	-9.598498
+com_135	unpublished	No name 04	2000	-62.7007	-8.8828
+com_136	unpublished	No name 05	2000	-56.053584	-9.949375
+com_137	unpublished	No name 06	2000	-65.422	-4.543
+com_138	unpublished	No name 07	2000	-65.25	-4.877
+com_139	unpublished	No name 08	2000	-62.47	-4.33
+com_140	unpublished	No name 09	2000	-65.268	-4.846
+com_141	unpublished	No name 10	2000	-65.10824	-9.58111
+com_142	unpublished	No name 11	2006	-54.9285	-2.4937
+com_143	unpublished	No name 12	2006	-54.9322	-2.4805
+com_144	unpublished	No name 13	2006	-54.9126	-2.4966
+com_145	unpublished	No name 14	2006	-54.8974	-2.486
+com_146	unpublished	No name 15	2006	-54.9623	-2.4746
+com_147	unpublished	No name 16	2006	-54.8924	-2.4549
+com_148	unpublished	No name 17	2006	-54.905	-2.4992
+com_149	unpublished	No name 18	2006	-54.8917	-2.4678
+com_150	unpublished	No name 19	2006	-54.9324	-2.466
+com_151	unpublished	No name 20	2006	-54.9088	-2.4483
+com_152	unpublished	No name 21	2006	-54.9169	-2.4813
+com_153	unpublished	No name 22	2006	-55.0099	-2.7985
+com_154	unpublished	No name 23	2006	-55.0291	-2.8172
+com_155	unpublished	No name 24	2006	-55.0308	-2.8417
+com_156	REF_NT_058	Mata Sao Jose	1999	-47.477433	-22.358816
+com_157	REF_NT_059	Corrego do Veado Biological Reserve	1994	-40.15	-18.35
+com_158	REF_NT_059	Corrego Grande Biological Reserve	1994	-39.808391	-18.267905
+com_159	REF_NT_059	Linhares Forest Reserve	1994	-39.958743	-19.126546
+com_160	REF_NT_059	Putiri	1994	-40.160588	-19.875451
+com_161	REF_NT_060	Caetetus Ecological Station	1996	-49.7	-22.4
+com_162	REF_NT_060	Rio Claro Farm	1996	-49.899416	-22.839361
+com_163	REF_NT_060	Mosquito Farm	1996	-51.518201	-22.671531
+com_164	REF_NT_060	Tucano Farm	1996	-52.464406	-22.477651
+com_165	REF_NT_060	Morro do Diabo State Park	1996	-52.333333	-22.5
+com_166	REF_NT_061	PESM-Caraguatatuba	2009	-45.428132	-23.588901
+com_167	REF_NT_061	Jacupiranga	2009	-48.366667	-24.883333
+com_168	REF_NT_061	Jureia	2009	-47.233333	-24.533333
+com_169	REF_NT_061	PETAR	2009	-48.466667	-24.516667
+com_170	REF_NT_061	Carlos Botelho State Park	2009	-48.033333	-24.133333
+com_171	REF_NT_062	Poço das Antas Biological Reserve	2003	-42.280389	-22.539694
+com_172	REF_NT_062	Uniao Biological Reserve	2003	-42.040056	-22.424639
+com_173	REF_NT_063	Serra de Santo Antonio	2008	-45.96625	-22.223139
+com_174	REF_NT_065	Mata do Cedro Ecological Station	2008	-44.610556	-20.446389
+com_175	REF_NT_066	Santa Rita do Sapucai Biological Reserve	2006	-45.738853	-22.204744
+com_176	REF_NT_067	RPPN-UNISC	2008	-52.538956	-29.391611
+com_177	REF_NT_069	RPPN Gargau	2006	-34.955556	-7.021111
+com_178	REF_NT_070	Mata do Bugio	2006	-53.761533	-23.3842
+com_179	REF_NT_071	Trapsa Farm	2008	-37.24785	-11.177611
+com_180	REF_NT_072	Crasto Farm	2011	-37.415569	-11.361969
+com_181	REF_NT_072	Arauari Farm	2011	-36.996606	-10.745353
+com_182	REF_NT_073	Una Biological Reserve	1997	-39.105531	-15.184961
+com_183	unpublished	No name 25	2003	-39.259588	-14.679383
+com_184	unpublished	No name 26	2003	-39.333333	-15.166667
+com_185	unpublished	No name 27	2003	-39.185471	-14.65297
+com_186	unpublished	No name 28	2003	-40.086483	-14.759619
+com_187	unpublished	No name 29	2003	-39.657014	-14.886059
+com_188	unpublished	No name 30	2003	-39.615139	-15.028828
+com_189	unpublished	No name 31	2003	-39.912547	-15.278957
+com_190	unpublished	No name 32	2003	-39.563077	-15.135406
+com_191	unpublished	No name 33	2003	-39.458311	-14.330439
+com_192	REF_NT_074	Parque Nacional do Descobrimento	2009	-39.30541111	-17.070275
+com_193	REF_NT_074	Parque Nacional do Pau Brasil	2009	-39.27880556	-16.49390278
+com_194	REF_NT_074	Parque Nacional Serra de Itabaiana	2005	-37.33541667	-10.80025
+com_195	REF_NT_074	Parque Nacional de Monte Pascoal	1978	-39.30355	-16.87885833
+com_196	REF_NT_074	Fazenda Santana	2011	-36.74478111	-10.55063992
+com_197	REF_NT_074	Fazenda Campina	2011	-38.40360627	-12.4479642
+com_198	REF_NT_074	Serra de Sao Francisco	2011	-38.81655138	-12.66106575
+com_199	REF_NT_074	Parque Provincial Cruce Caballero	1992	-53.966667	-26.466667
+com_200	REF_NT_074	RPPN Mitra do Bispo	2010	-44.5575	-22.149
+com_201	REF_NT_074	Mata Escura Biological Reserve	2000	-42.00000016	-16.00000886
+com_202	REF_NT_074	Parque Municipal Danilo Galafassi	2013	-53.43138	-24.95072
+com_203	REF_NT_074	RPPN Emilio Fiorentino Battistella	2009	-49.3572	-26.394
+com_204	REF_NT_074	RPPN Ceu do Mar	2012	-43.1609	-22.5915
+com_205	REF_NT_074	EPTEA Mata do Paraiso	2005	-42.51	-20.48
+com_206	REF_NT_074	137	2013	-39.568694	-15.929852
+com_207	REF_NT_074	135	2013	-39.904267	-15.969337
+com_208	REF_NT_074	134	2013	-39.74997	-15.921144
+com_209	REF_NT_074	133	2013	-39.928718	-15.962863
+com_210	REF_NT_074	132	2013	-39.854369	-15.942406
+com_211	REF_NT_074	130	2013	-39.900796	-15.941757
+com_212	REF_NT_074	129	2013	-39.723946	-15.938357
+com_213	REF_NT_074	127	2013	-39.875869	-15.916891
+com_214	REF_NT_074	126	2013	-39.791815	-15.915345
+com_215	REF_NT_074	136	2013	-39.644647	-15.91846
+com_216	REF_NT_074	125	2013	-39.713429	-15.942926
+com_217	REF_NT_074	123	2013	-39.698695	-15.93749
+com_218	REF_NT_074	122	2013	-39.891546	-15.928805
+com_219	REF_NT_074	121	2013	-39.743378	-15.951152
+com_220	REF_NT_074	114	2013	-39.829988	-15.957284
+com_221	REF_NT_074	Tormenta	2007	-53.25601	-25.17743
+com_222	REF_NT_074	Rio d oeste	2007	-53.26454	-25.15168
+com_223	REF_NT_074	Parque Ecologico Paulo Gorski	2013	-53.442	-24.95808
+com_224	REF_NT_074	Parque Estadual da Cantareira	2005	-46.6351	-23.4237
+com_225	REF_NT_074	RPPN Volta Velha	1999	-48.648055	-26.075277
+com_226	REF_NT_074	RPPN Curucaca	2009	-49.572287	-28
+com_227	REF_NT_074	Fragmento da Fazenda Cabana da Ponte	2012	-40.0295048	-15.09426481
+com_228	REF_NT_074	Mata Rio Pau Brasil	2016	-35.017695	-6.473944
+com_229	REF_NT_074	Mata do Angico	2017	-35.16556	-7.04687
+com_230	REF_NT_074	Mata Araca	2017	-35.149245	-7.065789
+com_231	REF_NT_074	Mata Viveiro Japungu	2016	-34.990393	-7.022842
+com_232	REF_NT_074	Parque Nacional do Itatiaia	2002	-44.703923	-22.400167
+com_233	REF_NT_074	Beiraldo-Alpes D Ouro	2016	-46.464677	-23.17327
+com_234	REF_NT_074	Parque Nacional da Serra dos Orgaos	2008	-43.0167	-22.4833
+com_235	REF_NT_074	Parque Estadual do Rio Doce	1985	-42.542531	-19.62839
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
